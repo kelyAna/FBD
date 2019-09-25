@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="src" path="SistemaAD/src"/>
+	<classpathentry kind="lib" path="SistemaAD/dist/lib/AbsoluteLayout.jar"/>
+	<classpathentry kind="lib" path="SistemaAD/dist/lib/beansbinding-1.2.1.jar"/>
+	<classpathentry kind="lib" path="SistemaAD/dist/lib/postgresql-9.4.1212.jre6.jar"/>
+	<classpathentry kind="lib" path="SistemaAD/dist/SistemaAD.jar"/>
+	<classpathentry kind="output" path="SistemaAD/build/classes"/>
+</classpath>
