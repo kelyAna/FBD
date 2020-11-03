@@ -10,7 +10,7 @@ PostgreSQL is a relational object database management system, developed as an op
 
 # Eclipse IDE installation
 
-![Eclipse IDE](https://fernandofranzini.files.wordpress.com/2018/05/maxresdefault.jpg)
+![Eclipse IDE](https://fernandofranzini.files.wordpress.com/2018/05/maxresdefault.jpg?w=200)
 
 Step 1. Open a terminal;
 Step 2. If you have already done a manual installation of the program, use the commands below to delete it;
