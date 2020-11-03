@@ -43,7 +43,7 @@ echo -e '[Desktop Entry]\n Version=1.0\n Name=eclipse\n Exec=/opt/eclipse/eclips
 
 # How to install Postgre and pgAdmin
 
-![PostgreSQL](https://lh3.googleusercontent.com/proxy/GtriN3lZKA1iMNAHxRT2rLSoUvRvtS7RfaiUsPMBx-KrP-lmvsNQSYy4zcLxiYXWfrvUakTOjXQoy0hfSFsg9o0ceZsY9U77OmX8TQ7Trd8VZxsnxQUn5hLGmgt6bNP06a0ZHTRHweKgnSk)
+![PostgreSQL](https://lh3.googleusercontent.com/proxy/GtriN3lZKA1iMNAHxRT2rLSoUvRvtS7RfaiUsPMBx-KrP-lmvsNQSYy4zcLxiYXWfrvUakTOjXQoy0hfSFsg9o0ceZsY9U77OmX8TQ7Trd8VZxsnxQUn5hLGmgt6bNP06a0ZHTRHweKgnSk?w=200)
 
 ```bash
 deb http://apt.postgresql.org/pub/repos/apt/ bionic-pgdg main
