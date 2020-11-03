@@ -41,8 +41,31 @@ echo -e '[Desktop Entry]\n Version=1.0\n Name=eclipse\n Exec=/opt/eclipse/eclips
 ```
 
 
-# PostgreSQL installation
+# How to install Postgre and pgAdmin
 
 ![PostgreSQL](https://lh3.googleusercontent.com/proxy/GtriN3lZKA1iMNAHxRT2rLSoUvRvtS7RfaiUsPMBx-KrP-lmvsNQSYy4zcLxiYXWfrvUakTOjXQoy0hfSFsg9o0ceZsY9U77OmX8TQ7Trd8VZxsnxQUn5hLGmgt6bNP06a0ZHTRHweKgnSk)
+
+```bash
+deb http://apt.postgresql.org/pub/repos/apt/ bionic-pgdg main
+```
+
+```bash
+wget --quiet -O - https://www.postgresql.org/media/keys/ACCC4CF8.asc | sudo apt-key add -
+
+sudo apt-get update
+```
+```bash
+sudo apt-get install postgresql-12
+```
+```bash
+sudo apt-get install pgadmin4
+```
+## Contributing
+Pull requests are welcome. For major changes, please open an issue first to discuss what you would like to change.
+
+Please make sure to update tests as appropriate.
+
+## License
+[MIT](https://choosealicense.com/licenses/mit/)
 
 
