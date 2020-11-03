@@ -43,6 +43,6 @@ echo -e '[Desktop Entry]\n Version=1.0\n Name=eclipse\n Exec=/opt/eclipse/eclips
 
 # PostgreSQL installation
 
-![PostgreSQL](https://www.cyclonis.com/images/2018/10/1_7AOhGDnRL2eyJMUidCHZEA-765x383.jpg?w=100)
+![PostgreSQL](https://miro.medium.com/max/3840/1*9kZEeIFveAWBWAAXVyiLFw.png?300)
 
 
